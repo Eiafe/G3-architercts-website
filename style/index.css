@@ -8,3 +8,49 @@
   font-weight: 400;
   font-style: normal;
 }
+/* shared styles */
+.display-flex{
+    display: flex;
+}
+/* dark2 */
+.text-gray{
+    color: #424242
+
+}
+/* drak_3 */
+.text-light gray{
+    color: #727272;
+    
+}
+
+
+
+/* heders style  */
+
+
+/* neavber related styles */
+.navbar{
+  justify-content: space-between;
+    
+
+}
+.bg-light{
+    background-color: rgba(255, 144, 14, 0.1);
+}
+.nav-links{
+    display: flex;
+    text-decoration: none;
+    
+
+}
+.nav-item{
+    margin-right: 30px;
+    list-style: none;
+    
+
+}
+.navbar,.banner{
+    max-width: 1400px;
+    margin:0 auto;
+
+}
